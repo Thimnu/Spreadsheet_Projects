@@ -1,5 +1,5 @@
 # Spreadsheet_Projects
-##Analysis of a simple sales data to showcase spreadsheet calculations.
+Analysis of a simple sales data to showcase spreadsheet calculations.
 
 The actions carried out are:
 
@@ -18,4 +18,5 @@ REMOVE DUPLICATES
 FILLL EMPTY CELLS
 
 IFERROR
-A simple dashboard was created to give a snapshot of the data analysed. Dashboard
+
+A simple dashboard was created to give a snapshot of the data analysed. <a href="https://github.com/Thimnu/Spreadsheet_Projects/blob/main/Spreadsheet%201.jpg "Dashboard">  </a>
