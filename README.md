@@ -19,8 +19,9 @@ FILLL EMPTY CELLS
 
 IFERROR
 
-Simple dashboards were created to give a snapshot of the data analysed. 
-View here: 
+The analysed data were transformed into visualisations to give a snapshot of key information. 
+
+They can be viewed here: 
 - <a href="https://github.com/Thimnu/Spreadsheet_Projects/blob/main/Spreadsheet%201.jpg"> Dashboard </a>
 
 - <a href="https://github.com/Thimnu/Spreadsheet_Projects/blob/main/Dashboard%202.pptx.jpg"> Dashboard 2 </a>
