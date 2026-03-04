@@ -19,4 +19,8 @@ FILLL EMPTY CELLS
 
 IFERROR
 
-A simple dashboard was created to give a snapshot of the data analysed. View here: <a href="https://github.com/Thimnu/Spreadsheet_Projects/blob/main/Spreadsheet%201.jpg"> Dashboard </a>
+Simple dashboards were created to give a snapshot of the data analysed. 
+View here: 
+- <a href="https://github.com/Thimnu/Spreadsheet_Projects/blob/main/Spreadsheet%201.jpg"> Dashboard </a>
+
+- <a href="https://github.com/Thimnu/Spreadsheet_Projects/blob/main/Dashboard%202.pptx.jpg"> Dashboard 2 </a>
