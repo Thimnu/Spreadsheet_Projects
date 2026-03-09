@@ -1,5 +1,5 @@
 # Spreadsheet_Projects
-Analysis of a simple sales data to showcase spreadsheet calculations.
+Analysis of various datasets showcasing spreadsheet calculations.
 
 The actions carried out include:
 
@@ -8,6 +8,7 @@ The actions carried out include:
 - Conditional formatting
 - Filters
 - Searches/ Extractions
+- Visualisations
 
 The analysed data were transformed into visualisations dashboardsto give a snapshot of key information. 
 
