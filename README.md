@@ -3,9 +3,9 @@ Analysis of a simple sales data to showcase spreadsheet calculations.
 
 The actions carried out are:
 
-- FIND AND REPLACE        - LOWER, UPPER        - TRIM                    - PROPER
+FIND AND REPLACE        - LOWER, UPPER        - TRIM                    - PROPER             - XLOOKUP
 
-- TEXT TO COLUMN          - REMOVE DUPLICATES   - FILLL EMPTY CELLS       - IFERROR
+TEXT TO COLUMN          - REMOVE DUPLICATES   - FILLL EMPTY CELLS       - IFERROR            - CONDITIONAL FORMATTING
 
 The analysed data were transformed into visualisations to give a snapshot of key information. 
 
