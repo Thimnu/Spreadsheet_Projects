@@ -3,10 +3,10 @@ Analysis of a simple sales data to showcase spreadsheet calculations.
 
 The actions carried out include:
 
-- DATA CLEANING
-- DATA ANALYSIS
-- CONDITIONAL FORMATTING
-- SEARCHES/ EXTRACTIONS
+- Data cleaning
+- Data analysis
+- Conditional formatting
+- Searches/ Extractions
 
 The analysed data were transformed into visualisations dashboardsto give a snapshot of key information. 
 
