@@ -8,9 +8,9 @@ The actions carried out include:
 - CONDITIONAL FORMATTING
 - SEARCHES/ EXTRACTIONS
 
-The analysed data were transformed into visualisations to give a snapshot of key information. 
+The analysed data were transformed into visualisations dashboardsto give a snapshot of key information. 
 
-They can be viewed here: 
+Screenshopts of the dashboards can be viewed here: 
 - <a href="https://github.com/Thimnu/Spreadsheet_Projects/blob/main/Dashboard.jpg"> Dashboard 1 </a>
 
 - <a href="https://github.com/Thimnu/Spreadsheet_Projects/blob/main/Dashboard%202.pptx.jpg"> Dashboard 2 </a>
