@@ -6,6 +6,7 @@ The actions carried out include:
 - Data cleaning
 - Data analysis
 - Conditional formatting
+- Filters
 - Searches/ Extractions
 
 The analysed data were transformed into visualisations dashboardsto give a snapshot of key information. 
