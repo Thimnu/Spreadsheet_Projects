@@ -11,7 +11,7 @@ The actions carried out include:
 The analysed data were transformed into visualisations to give a snapshot of key information. 
 
 They can be viewed here: 
-- <a href="https://github.com/Thimnu/Spreadsheet_Projects/blob/main/Spreadsheet%201.jpg"> Dashboard1 </a>
+- <a href="https://github.com/Thimnu/Spreadsheet_Projects/blob/main/Dashboard.jpg"> Dashboard1 </a>
 
 - <a href="https://github.com/Thimnu/Spreadsheet_Projects/blob/main/Spreadsheet%201.jpg"> Dashboard1 </a>
 
