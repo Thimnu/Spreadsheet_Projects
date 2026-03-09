@@ -6,7 +6,7 @@ The actions carried out include:
 - DATA CLEANING
 - DATA ANALYSIS
 - CONDITIONAL FORMATTING
-- SEARCHES/ XLOOKUP
+- SEARCHES/ EXTRACTIONS
 
 The analysed data were transformed into visualisations to give a snapshot of key information. 
 
