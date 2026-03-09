@@ -3,6 +3,7 @@ Analysis of various datasets showcasing spreadsheet calculations.
 
 The actions carried out include:
 
+- Power query/ DAX
 - Data cleaning
 - Data analysis
 - Conditional formatting
