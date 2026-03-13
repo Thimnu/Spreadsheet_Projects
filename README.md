@@ -11,9 +11,11 @@ The actions carried out include:
 - Searches/ Extractions
 - Visualisations
 
-The analysed data were transformed into visualisations dashboardsto give a snapshot of key information. 
+The analysed data were transformed into visualisations dashboards to give a snapshot of key information. 
 
-Screenshots of the dashboards can be viewed here: 
+The data analysis and raw data are available on the spreadsheets.
+
+Screenshots of the dashboards can be viewed below and on the spreadsheets: 
 - <a href="https://github.com/Thimnu/Spreadsheet_Projects/blob/main/Dashboard%201.jpg"> Dashboard 1 </a>
 
 - <a href="https://github.com/Thimnu/Spreadsheet_Projects/blob/main/Dashboard%202.pptx.jpg"> Dashboard 2 </a>
