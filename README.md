@@ -7,7 +7,7 @@ The actions carried out include:
 - Data cleaning
 - Data analysis
 - Conditional formatting
-- Formulars
+- Formulas
 - Filters
 - Searches/ Extractions
 - Visualisations
