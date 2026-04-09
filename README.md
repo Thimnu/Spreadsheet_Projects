@@ -11,6 +11,8 @@ The actions carried out include:
 - Filters
 - Searches/ Extractions
 - Visualisations
+- Excecutive Summary
+- Recommendations
 
 The analysed data were transformed into visualisations dashboards to give a snapshot of key information. 
 
